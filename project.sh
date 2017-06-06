@@ -10,3 +10,11 @@ cp psu/jquery-3.2.1.js project/js/jquery-3.2.1.js
 cp psu/bootstrap.css project/css/bootstrap.css
 echo "Bootstrap and JQuery Installed"
 echo "Project is set-up"
+cp psu/.pairs ~/.pairs
+cd ~
+atom .pairs
+cd desktop
+echo "1 - Edit pair info"
+echo "2 - Rename Project"
+echo "3 - cd project_name"
+echo "Enjoy :-)"
