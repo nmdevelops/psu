@@ -1,6 +1,6 @@
 pairs:
-  nm: Nathan Mayer
-  xx: Xray_Xray
+  pairOne: pairOneName
+  pairTwo: pairTwoName
 email:
-  nm: nm.develops@gmail.com
-  xx: xxxxxxxxxxxxxxxxxxxx
+  pairOne: pairOneEmail
+  pairTwo: pairTwoEmail
